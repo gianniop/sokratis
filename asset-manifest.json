@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sokratis/static/css/main.bc8fef97.chunk.css",
+    "main.js": "/sokratis/static/js/main.f3c9d17a.chunk.js",
+    "main.js.map": "/sokratis/static/js/main.f3c9d17a.chunk.js.map",
+    "runtime-main.js": "/sokratis/static/js/runtime-main.9971f54d.js",
+    "runtime-main.js.map": "/sokratis/static/js/runtime-main.9971f54d.js.map",
+    "static/js/2.164a293f.chunk.js": "/sokratis/static/js/2.164a293f.chunk.js",
+    "static/js/2.164a293f.chunk.js.map": "/sokratis/static/js/2.164a293f.chunk.js.map",
+    "static/js/3.1aad5b3f.chunk.js": "/sokratis/static/js/3.1aad5b3f.chunk.js",
+    "static/js/3.1aad5b3f.chunk.js.map": "/sokratis/static/js/3.1aad5b3f.chunk.js.map",
+    "index.html": "/sokratis/index.html",
+    "static/css/main.bc8fef97.chunk.css.map": "/sokratis/static/css/main.bc8fef97.chunk.css.map",
+    "static/js/2.164a293f.chunk.js.LICENSE.txt": "/sokratis/static/js/2.164a293f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sokratis/static/media/motivo_sokratis.8f292087.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9971f54d.js",
+    "static/js/2.164a293f.chunk.js",
+    "static/css/main.bc8fef97.chunk.css",
+    "static/js/main.f3c9d17a.chunk.js"
+  ]
+}
